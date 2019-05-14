@@ -7,4 +7,4 @@ The UML diagrams describe the process of developing a software project (e.g. a g
 - Software Creation Class Diagram (Data Model)
 - Software Creation Sequence Diagram
 - Software Creation Activity Diagram
-- Software Creation STate Diagram
+- Software Creation State Diagram
